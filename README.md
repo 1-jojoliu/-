@@ -1,1 +1,1 @@
-# -Tampermonkey 哔哩哔哩 (bilibili.com) 辅助脚本
+# 显示哔哩哔哩直播弹幕发送的视频号
